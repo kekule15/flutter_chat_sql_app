@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:math';
 import 'dart:ui';
 
-import 'package:customer/style/appColors.dart';
+import 'package:chat/style/appColors.dart';
 import 'package:chat/utils/images.dart';
 import 'package:intl/intl.dart';
 
